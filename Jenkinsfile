@@ -1,6 +1,9 @@
 @Library('robot-shared-library') _
 
-nodejs("catalogue")
+env.COMPONENT="catalogue"
+env.APP="nodejs"
+
+nodejs()
 
 
 // pipeline {
