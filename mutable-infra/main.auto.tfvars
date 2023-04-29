@@ -1,3 +1,3 @@
 COMPONENT = "catalogue"
-PORT = 8080
+PORT = 80
 
